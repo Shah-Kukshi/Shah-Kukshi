@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shah-kukshi" alt="shah-kukshi" /></a> </p>
 <p align="left">
-[![Kukshi_Shah's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kukshi_Shah&theme=Light)](https://leetcode.com/u/Kukshi_Shah)</p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)</p>
 
 - 🔭 I’m currently working on **Social media app**
 
